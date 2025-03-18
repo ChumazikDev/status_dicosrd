@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "PATH_TO_BAT_FILE",0,True
