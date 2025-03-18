@@ -5,10 +5,10 @@
 
 ##  Использование
 
-+ В файле start_status.bat установите свой путь к файлу status.py
-+ В файле Runner.vbs установите свой путь к файлу start_status.bat
-+ Переместите скрипт Runner.vbs в папку автозагрузки (обычно: C:\Users\имя_пользователя\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup)
-+ В файле status.py замените YOUR_Application_ID на ваш id приложения с https://discord.com/developers/applications
++ В файле `start_status.bat` установите свой путь к файлу `status.py`
++ В файле `Runner.vbs` установите свой путь к файлу `start_status.bat`
++ Переместите скрипт `Runner.vbs` в папку автозагрузки (обычно: `C:\Users\имя_пользователя\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`)
++ В файле `status.py` замените `YOUR_Application_ID` на ваш id приложения с https://discord.com/developers/applications
 
 
 
